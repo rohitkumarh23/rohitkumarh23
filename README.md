@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Rohit
 
-<!--
-**rohitkumarh23/rohitkumarh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | MERN Stack Learner  
+📍 New Delhi, India  
+🎯 Goal: Becoming Internship & Job Ready  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently mastering JavaScript deeply
+- ⚛️ Learning React & MERN Stack
+- 🧠 Strong understanding of HTML, CSS & JS fundamentals
+- 🛠️ Building real-world projects to strengthen concepts
+- 🔥 Focused on growth, discipline & long-term success
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React (Learning)
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- Building practical JS projects
+- Improving problem-solving skills
+- Preparing for internships
+
+---
+
+## 📫 Connect With Me
+(Your LinkedIn link here)
