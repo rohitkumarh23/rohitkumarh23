@@ -19,7 +19,9 @@
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- React (Learning)
+- React
+- NextJs (Learning)
+- gsap
 - Git & GitHub
 
 ---
