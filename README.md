@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | MERN Stack Learner  
 📍 New Delhi, India  
-🎯 Goal: Becoming Internship & Job Ready  
+🎯 Goal: Becoming Job Ready  
 
 ---
 
